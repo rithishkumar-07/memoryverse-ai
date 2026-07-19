@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+chroma_db/
+memoryverse.db
+uploads/
+.venv/
+venv/
